@@ -1,0 +1,24 @@
+_repo: Z_59515
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fontenay, Charles L.
+    alias: Fontenay, Charles Louis
+    birthdate: 1917
+    deathdate: 2007
+    gutenberg_agent_id: '9500'
+    url: http://www.gutenberg.org/2009/agents/9500
+    wikipedia: http://en.wikipedia.org/wiki/Charles_L._Fontenay
+description: ''
+gutenberg_issued: '2019-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Z
+url: http://www.gutenberg.org/ebooks/59515
